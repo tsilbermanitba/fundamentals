@@ -9,18 +9,23 @@ TP Integrador: Crimes in Boston
 Hipotesis previa: 
 
 1. Año a año los incidentes fueron aumentando.
+
 Hipotesis rechazada. Aumentaron desde 2015 a 2017, pero en 2018 se vió una gran disminución.
 
 2. Los fines de semana hay menos incidentes.
+
 Hipotesis comprobada. Hay un equilibrio diario, siendo que los sabados y domingos son los dias con menores incidentes.
 
 3. Los tiroteos se dan en su mayoría a la madrugada
+
 Hipotesis rechazada. Los tiroteos se dan en su mayoría en las horas laborales, con picos durante la tarde, aunque el distrito A1 es la excepción.
 
 4. Hay barrios mas peligrosos que otros
+
 Hipotesis comprobada. Cerca del 70% de los incidentes se concentran en 3 distritos.
 
 5. La mayoria de los incidentes son de Part Three (menor gravedad) y la minoría de Part One (mayor gravedad).
+
 Hipotesis comprobada. En la gran mayoría de los barrios, esta es la situación predominante.
 
 Descripción:
